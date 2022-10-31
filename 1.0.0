@@ -1,0 +1,7 @@
+Requirement already satisfied: cmdstanpy in c:\users\vedan\vedant data\sentiment\back-end\djangoenv\lib\site-packages (0.9.68)
+Requirement already satisfied: pandas in c:\users\vedan\vedant data\sentiment\back-end\djangoenv\lib\site-packages (from cmdstanpy) (1.4.1)
+Requirement already satisfied: ujson in c:\users\vedan\vedant data\sentiment\back-end\djangoenv\lib\site-packages (from cmdstanpy) (5.2.0)
+Requirement already satisfied: numpy>=1.15 in c:\users\vedan\vedant data\sentiment\back-end\djangoenv\lib\site-packages (from cmdstanpy) (1.22.3)
+Requirement already satisfied: python-dateutil>=2.8.1 in c:\users\vedan\vedant data\sentiment\back-end\djangoenv\lib\site-packages (from pandas->cmdstanpy) (2.8.2)
+Requirement already satisfied: pytz>=2020.1 in c:\users\vedan\vedant data\sentiment\back-end\djangoenv\lib\site-packages (from pandas->cmdstanpy) (2022.1)
+Requirement already satisfied: six>=1.5 in c:\users\vedan\vedant data\sentiment\back-end\djangoenv\lib\site-packages (from python-dateutil>=2.8.1->pandas->cmdstanpy) (1.16.0)
